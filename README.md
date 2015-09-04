@@ -4,6 +4,4 @@ Um programa simples que moniora uma determinada url, atualiza em x minutos e avi
 
 Download compilado:
 
-32 bits: https://onedrive.live.com/redir?resid=4707EA11215E80D!40820&authkey=!ACtzsdaMI0kl50w&ithint=file%2cexe
-
-64 bits: https://onedrive.live.com/redir?resid=4707EA11215E80D!40819&authkey=!AK-STLx34ZcLaQc&ithint=file%2cexe
+https://onedrive.live.com/redir?resid=4707EA11215E80D!40821&authkey=!AFGoRGQYYjrcuTY&ithint=folder%2cexe
